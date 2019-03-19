@@ -1,0 +1,11 @@
+this is a test this is only a test do not panic do not pass go do collect
+two hundred dollars the data in this file is to be used to test the list
+class I need more words so that I can check it out with more values than
+previously used to validate the list functions the more the better because
+we need to have plenty of stuff for the example values after all it is
+generally necessary to find out if a class works for large sets
+now lets add even more to this file of nonsense by making it bigger we can
+generate an even better trial for the linked list program some new data
+will help extend the length of the list so that it fills even more of the
+screen as it executes
+
